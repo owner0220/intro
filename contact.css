@@ -1,0 +1,12 @@
+.ft{
+    height:70px;
+    width:100%;
+    background-color: whitesmoke;
+}
+
+.ft-cnt{
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, 80%)
+}
